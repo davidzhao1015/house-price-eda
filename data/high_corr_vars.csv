@@ -1,0 +1,13 @@
+variable,correlation,description
+OverallQual,0.8075842966430008,Rates the overall material and finish of the house
+GrLivArea,0.719779223011482,Above grade (ground) living area square feet
+GarageCars,0.684793385198476,Size of garage in car capacity
+YearBuilt,0.6682631183907659,Original construction date
+GarageArea,0.6409778025977153,Size of garage in square feet
+FullBath,0.6302125596519224,Full bathrooms above grade
+TotalBsmtSF,0.5891822102922277,Total square feet of basement area
+YearRemodAdd,0.5780832939615992,Remodel date (same as construction date if no remodeling or additions)
+GarageYrBlt,0.5691447435703282,Year garage was built
+1stFlrSF,0.555504895937001,First Floor square feet
+TotRmsAbvGrd,0.51420629865103,Total rooms above grade (does not include bathrooms)
+Fireplaces,0.5070275921113582,Number of fireplaces

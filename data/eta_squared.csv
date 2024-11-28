@@ -1,0 +1,39 @@
+variable,eta_squared,description
+MSZoning,0.13207542424333787,Identifies the general zoning classification of the sale.
+LotShape,0.0683105836316636,General shape of property
+LandContour,0.03029474420561986,Flatness of the property
+LotConfig,0.015170089419520241,Lot configuration
+LandSlope,0.001448737544267181,Slope of property
+Neighborhood,0.568543452565586,Physical locations within Ames city limits
+Condition1,0.041982333474635404,Proximity to various conditions
+Condition2,0.009253718495317883,Proximity to various conditions (if more than one is present)
+BldgType,0.03893150500059351,Type of dwelling
+HouseStyle,0.09435400370779187,Style of dwelling
+RoofStyle,0.04163569891625253,Type of roof
+RoofMatl,0.005784343330733639,Roof material
+Exterior1st,0.18888469440106634,Exterior covering on house
+Exterior2nd,0.18466853210720524,Exterior covering on house (if more than one material)
+MasVnrType,0.1202977000860925,Masonry veneer type
+ExterQual,0.49306008811112156,Evaluates the quality of the material on the exterior
+ExterCond,0.03227323534837416,Evaluates the present condition of the material on the exterior
+Foundation,0.2959278768054514,Type of foundation
+BsmtQual,0.4813370320688697,Evaluates the height of the basement
+BsmtCond,0.032137489264338515,Evaluates the general condition of the basement
+BsmtExposure,0.12489930965405287,Refers to walkout or garden level walls
+BsmtFinType1,0.21165203351818074,Rating of basement finished area
+BsmtFinType2,0.009418234510575078,Rating of basement finished area (if multiple types)
+Heating,0.018723901102877326,Type of heating
+HeatingQC,0.21475248390502258,Heating quality and condition
+Electrical,0.06875532463035954,Electrical system
+KitchenQual,0.46270962591387854,Kitchen quality
+Functional,0.021698684731965494,Home functionality (Assume typical unless deductions are warranted)
+FireplaceQu,0.09493523126763735,Fireplace quality
+GarageType,0.19075103191605583,Garage location
+GarageFinish,0.3270653883809846,Interior finish of the garage
+GarageQual,0.029354421600173267,Garage quality
+GarageCond,0.025249648508497608,Garage condition
+PavedDrive,0.0636906879331417,Paved driveway
+Fence,0.01617787801946186,Fence quality
+MiscFeature,0.0020345746339807693,Miscellaneous feature not covered in other categories
+SaleType,0.15125340483964844,Type of sale
+SaleCondition,0.15346877989255825,Condition of sale
